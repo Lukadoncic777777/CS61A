@@ -2,4 +2,4 @@
 
 I'm self-studying CS61A during the winter vacation, and I need the code for the related homework, labs, and projects.
 
-我是姜午尧
+QQ：931231099欢迎交友
